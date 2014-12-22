@@ -36,6 +36,13 @@ This keyboarded and encoded edition of the
 
 #####Body#####
 
+1. Articles to be inquired of, by the Miniſter, Churchwardens, and Sidemen, of
+euery Pariſh, and Precinct, within the Archdeaconate of London, according
+to the ſpeciall direction of certaine Letters, heeretofore ſent to the Lord Biſhop of
+London, from the right Honourable Lords of the Priuie Councell.
+
+    _ Obſeruations materiall in this Inquirie.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
